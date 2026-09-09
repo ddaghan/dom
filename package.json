@@ -1,5 +1,5 @@
 {
-  "name": "domxs",
+  "name": "@ddaghan/dom",
   "version": "1.0.0",
   "description": "A mini utility to create dom elements.",
   "keywords": [
