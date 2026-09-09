@@ -1,0 +1,29 @@
+{
+  "name": "domxs",
+  "version": "1.0.0",
+  "description": "A mini utility to create dom elements.",
+  "keywords": [
+    "dom",
+    "createElement",
+    "appendChild"
+  ],
+  "homepage": "https://github.com/ddaghan/dom#readme",
+  "bugs": {
+    "url": "https://github.com/ddaghan/dom/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddaghan/dom.git"
+  },
+  "license": "ISC",
+  "author": "Daghan Dinc",
+  "type": "module",
+  "main": "dom.js",
+  "scripts": {
+    "build": "rolldown src/dom.js --file dom.js --minify=true",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "rolldown": "^1.2.8"
+  }
+}
