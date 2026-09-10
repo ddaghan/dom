@@ -1,7 +1,8 @@
 # A small (0.5 kb) dom utility
 
-dom method creates actual dom objects.
-It is a shortened version of document.createElement, document.setAttributes, document.appendChild.
+```dom()``` method creates actual DOM objects.
+
+It is a shortened version of document.createElement, el.setAttributes, el.appendChild.
 
 ## Install
 
